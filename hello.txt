@@ -1,5 +1,5 @@
-hello , this is a txt file use to test my git!
-hello , this is a txt file use to test my git!
+version : test 1.0
+
 hello , this is a txt file use to test my git!
 hello , this is a txt file use to test my git!
 hello , this is a txt file use to test my git!
@@ -10,4 +10,3 @@ hello , this is a txt file use to test my git!
 hello , this is a txt file use to test my git!
 hello , this is a txt file use to test my git!
 
-version : 0.0.2 
