@@ -1,4 +1,4 @@
-version :1.0
+version :3.0
 hello , this is a txt file use to test my git!
 hello , this is a txt file use to test my git!
 hello , this is a txt file use to test my git!
