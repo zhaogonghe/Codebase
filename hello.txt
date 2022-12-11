@@ -1,3 +1,5 @@
 version : v2.0 第二版汉字测试
 hello , this is a txt file for test my git!
 网络端输入
+
+再次输入
